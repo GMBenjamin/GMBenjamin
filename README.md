@@ -1,3 +1,5 @@
+Estudiante de Ingeniería Civil en Computación de la Universidad de Chile.
+
 ### Se vienen cositas :0
 
 <!--
