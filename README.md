@@ -1,4 +1,6 @@
-Estudiante de Ingeniería Civil en Computación de la Universidad de Chile.
+* Estudiante de Ingeniería Civil en Computación de la Universidad de Chile.
+
+* Usuario de Python.
 
 ### Se vienen cositas :0
 
