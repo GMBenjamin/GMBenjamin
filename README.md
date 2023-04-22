@@ -1,4 +1,4 @@
-<div align="center"><h2>Benjamín Gaete Madrid</h2></div>
+<div align="center"><h1>Benjamín Gaete Madrid</h1></div>
 
 <div align="center">
   
