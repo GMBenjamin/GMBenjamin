@@ -2,6 +2,9 @@
 
 <div align="center">
   
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.benjamingm@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GMBenjamin)
+  
   <p>Estudiante de Ingeniería Civil en Computación de la Universidad de Chile.</p>
   
 ![GitHub followers](https://img.shields.io/github/followers/GMBenjamin?style=social)
