@@ -13,7 +13,56 @@
   
 </div>
 
-### Lenguajes & Herramientas:
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+### Lenguajes:
+<p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a href="https://octave.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white">
+</a>
+</p>
+
+### Librerías:
+<p>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
+</a>
+</p>
+
+### Herramientas de texto:
+
+<p>
+<a href="https://www.overleaf.com" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Overleaf-47A141.svg?style=for-the-badge&logo=Overleaf&logoColor=white">
+</a>
+<a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white">
+</a>
+</p>
+
+### IDEs:
+
+<p>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white">
+</a>
+<a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepadplusplus&logoColor=black">
+</a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white">
+</a>
+</p>
+
+### Plataformas de prototipado:
+
+<p>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white">
+</a>
+</p>
+
+### Actividad en GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMBenjamin&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
