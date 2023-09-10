@@ -7,7 +7,7 @@
   
   <p>Estudiante de Ingeniería Civil en Computación de la Universidad de Chile.</p>
   
-![GitHub followers](https://img.shields.io/github/followers/GMBenjamin?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/GMBenjamin?style=social)](https://github.com/GMBenjamin?tab=followers)
 
   <a href="https://www.uchile.cl" target="_blank" rel="noreferrer"> <img src="https://cecla.uchile.cl/wp-content/uploads/2014/07/universidad-de-chile-logo-2.jpg" alt="Universidad de Chile" width="192" height="167"/> </a>
   
