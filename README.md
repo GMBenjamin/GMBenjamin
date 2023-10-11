@@ -21,12 +21,41 @@
 <a href="https://octave.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white">
 </a>
+<a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</a>
+<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Scala-DC322F.svg?style=for-the-badge&logo=Scala&logoColor=white">
+</a>
 </p>
 
 ### Librerías:
 <p>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
+</a>
+</p>
+
+### Desarrollo Web:
+<p>
+<a href="https://www.w3.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+</a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+</a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+</a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white">
+</a>
+</p>
+
+### Bases de datos:
+<p>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 </a>
 </p>
 
@@ -52,6 +81,32 @@
 </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white">
+</a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
+</a>
+</p>
+
+### Herramientas de oficina:
+
+<p>
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Microsoft%20Word-2B579A.svg?style=for-the-badge&logo=Microsoft-Word&logoColor=white">
+</a>
+<a href="https://www.google.com/intl/en-419_cl/docs/about/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Google%20Docs-4285F4.svg?style=for-the-badge&logo=Google-Docs&logoColor=white">
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?style=for-the-badge&logo=Microsoft-PowerPoint&logoColor=white">
+</a>
+<a href="https://www.google.com/intl/en-419/slides/about/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black">
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white">
+</a>
+<a href="https://www.google.com/intl/en-419/sheets/about/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white">
 </a>
 </p>
 
