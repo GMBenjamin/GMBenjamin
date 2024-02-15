@@ -34,6 +34,9 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
 </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
 </p>
 
 ### Desarrollo Web:
@@ -56,6 +59,9 @@
 <p>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white">
 </a>
 </p>
 
@@ -108,6 +114,9 @@
 <a href="https://www.google.com/intl/en-419/sheets/about/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white">
 </a>
+<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
+</a>
 </p>
 
 ### Plataformas de prototipado:
@@ -120,4 +129,4 @@
 
 ### Actividad en GitHub:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMBenjamin&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMBenjamin&layout=compact&)](https://github.com/GMBenjamin?tab=repositories)
