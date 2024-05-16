@@ -27,15 +27,24 @@
 <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Scala-DC322F.svg?style=for-the-badge&logo=Scala&logoColor=white">
 </a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
 </p>
 
-### Librerías:
+### Librerías de Python:
 <p>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
 </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
+<a href="[https://scikit-learn.org/stable/](https://matplotlib.org/)" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+</a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </a>
 </p>
 
@@ -52,6 +61,9 @@
 </a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white">
+</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </a>
 </p>
 
@@ -90,6 +102,9 @@
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
+</a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 </a>
 </p>
 
