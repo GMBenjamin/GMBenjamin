@@ -40,7 +40,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 </a>
-<a href="[https://scikit-learn.org/stable/](https://matplotlib.org/)" target="_blank" rel="noreferrer">
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 </a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
