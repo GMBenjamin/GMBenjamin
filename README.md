@@ -1,7 +1,7 @@
 <div align="center"><h1>Benjamín Gaete Madrid</h1></div>
 
 <div align="center">
-  
+
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GMBenjamin)
 
   <p>Estudiante de Ingeniería Civil en Computación de la Universidad de Chile.</p>
@@ -28,6 +28,9 @@
 </a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+<a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Racket-9F1D20.svg?style=for-the-badge&logo=Racket&logoColor=white">
 </a>
 </p>
 
@@ -138,6 +141,9 @@
 <p>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white">
+</a>
+<a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Espressif-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white">
 </a>
 </p>
 
