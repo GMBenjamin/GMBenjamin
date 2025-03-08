@@ -48,6 +48,9 @@
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </a>
+<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+</a>
 </p>
 
 ### Desarrollo Web:
@@ -76,6 +79,9 @@
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white">
+</a>
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Azure%20Databricks-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white">
 </a>
 </p>
 
@@ -106,7 +112,7 @@
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
 </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 </a>
 </p>
 
