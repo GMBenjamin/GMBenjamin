@@ -32,6 +32,9 @@
 <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Racket-9F1D20.svg?style=for-the-badge&logo=Racket&logoColor=white">
 </a>
+<a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/haskell-5D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white">
+</a>
 </p>
 
 ### Librerías de Python:
@@ -113,6 +116,9 @@
 </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+</a>
+<a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=CLion&logoColor=white">
 </a>
 </p>
 
