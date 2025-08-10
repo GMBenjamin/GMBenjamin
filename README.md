@@ -161,4 +161,4 @@
 
 ### Actividad en GitHub:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMBenjamin)](https://github.com/GMBenjamin?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMBenjamin&layout=compact)](https://github.com/GMBenjamin?tab=repositories)
